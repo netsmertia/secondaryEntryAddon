@@ -177,7 +177,7 @@ function addName(ia_gp) {
     
     //use your GP,IA; formated string;
 
-    var data = "ANANTWADA,ravi ved;BASWA,brijesh;BHANDEDA,devendra;ABHANERI,devendra;RLAVTA,ravi ved;GOLADA,sushil pardhan;BHANWTA-BHANWTI,nihal singh;MUNDGHISYA,ravi ved;NAGALJAMARWADA,devendra;GUDHLIYAN,nihal singh;KARNAWAR,brijesh;UNBADAGANV,sushil pardhan;KOLWA,nihal singh;PUNDARPADA,ravi ved;DIGARIYA BHIM,sushil pardhan;DELADI,nihal singh;SHYALAWAS,sushil pardhan;PICHPADA KLAN,nihal singh;BIVAI,devendra;MUHI,brijesh;CHANDAIRA,brijesh;ANNIYAN,nihal singh;DHNAWADH,nihal singh;GUDAKATLA,brijesh;PANDHITPURA,devendra;PRATAPPURA,nihal singh;KOLANA,sushil pardhan";
+    var data = "BDIYAL KLAN,ravi ved;LOTWADA,ravi ved;NIHALPURA,sushil pardhan;KHERI,ravi ved;BEJUPADA,brijesh;BDIYAL KHURD,brijesh;ANANTWADA,ravi ved;BASWA,brijesh;BHANDEDA,devendra;ABHANERI,devendra;RLAVTA,ravi ved;GOLADA,sushil pardhan;BHANWTA-BHANWTI,nihal singh;MUNDGHISYA,ravi ved;NAGALJAMARWADA,devendra;GUDHLIYAN,nihal singh;KARNAWAR,brijesh;UNBADAGANV,sushil pardhan;KOLWA,nihal singh;PUNDARPADA,ravi ved;DIGARIYA BHIM,sushil pardhan;DELADI,nihal singh;SHYALAWAS,sushil pardhan;PICHPADA KLAN,nihal singh;BIVAI,devendra;MUHI,brijesh;CHANDAIRA,brijesh;ANNIYAN,nihal singh;DHNAWADH,nihal singh;GUDAKATLA,brijesh;PANDHITPURA,devendra;PRATAPPURA,nihal singh;KOLANA,sushil pardhan;NANDERA,ravi ved";
     ///
     ////
     /////
